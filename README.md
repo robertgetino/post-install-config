@@ -5,11 +5,6 @@
 <h1>osTicket - Post-Install Configuration</h1>
 This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
 
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com/watch?v=mbckqBHjLxM)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -22,8 +17,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Configure Agent Panel
-- Configure Admin Panel
+- Configure all sections of the Agent and Admin Panels in osTicket
 
 <h2>Configuration Steps</h2>
 
@@ -31,7 +25,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In Step 1, I will be configuring the Agent Panel of osTicket in order to complete the installation. First, I will go to Admin/Analyst Login Page then go to the Agent Panel then Users, Add New, and add the names Karen and Ken, in this project.
+Above, in this project, I configure the "Roles", "Departments" and "Teams" sections in the Admin Panel of osTicket. In order to do this, I begin in the "Roles" section, which is to allow grouping permissions, by going to "Admin Panel", choosing "Agents", then "Roles". In this project, I use the Main Admin as the role.
+Next, I go back to the Admin Panel and to the "Departments" tab. I fill out all the necessary fields and use "SysAdmins" in this project for the department. Lastly, in the "Teams" tab, I fill out the necessary fields and use "Refund Requests" in the project and create the team.
 </p>
 <br />
 
