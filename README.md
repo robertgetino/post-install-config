@@ -22,10 +22,10 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DJmEXEB.png" height="45%" width="45%" alt="Disk Sanitization Steps"> <img src="https://i.imgur.com/DJmEXEB.png" height="45%" width="45%" alt="Disk Sanitization Steps"> <img src="https://i.imgur.com/DJmEXEB.png" height="45%" width="45%" alt="Disk Sanitization Steps"> <img src="https://i.imgur.com/DJmEXEB.png" height="45%" width="45%" alt="Disk Sanitization Steps"> <img src="https://i.imgur.com/DJmEXEB.png" height="45%" width="45%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Above, in this project, I configure the "Roles", "Departments" and "Teams" sections in the Admin Panel of osTicket. In order to do this, I begin in the "Roles" section, which is to allow grouping permissions, by going to "Admin Panel", choosing "Agents", then "Roles". In this project, I use the Main Admin as the role.
+Above, in this project, I configure the "Roles", "Departments" and "Teams" sections in the Admin Panel of osTicket. In order to do this, I begin in the "Roles" section, which is to allow grouping permissions, by going to "Admin Panel", choosing "Agents", then "Roles". I use the Main Admin as the role.
 Next, I go back to the Admin Panel and to the "Departments" tab. I fill out all the necessary fields and use "SysAdmins" in this project for the department. Lastly, in the "Teams" tab, I fill out the necessary fields and use "Refund Requests" in the project and create the team.
 </p>
 <br />
