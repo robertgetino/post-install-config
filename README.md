@@ -31,7 +31,7 @@ Next, I go back to the Admin Panel and to the "Departments" tab. I fill out all 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="50%" width="50%" alt="Disk Sanitization Steps"> <img src="https://i.imgur.com/DJmEXEB.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DJmEXEB.png" height="45%" width="45%" alt="Disk Sanitization Steps"> <img src="https://i.imgur.com/DJmEXEB.png" height="45%" width="45%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In the final step, I go to the Admin Panel. I then begin configuring each section in their appropriate location. I then go to Admin Panel, choose Agents then go to the following: Roles, Departments, Teams, User Settings then allow all users to create tickets, Agents (workers), SLA and then Help Topics.
