@@ -31,7 +31,7 @@ Next, I go back to the Admin Panel and to the "Departments" tab. I fill out all 
 <br />
 
 <p>
-<img src="https://github.com/robertgetino/post-install-config/blob/7f1cef2e775d50b07f064e6e5b3e686758b36e70/osTicket%20Agents.png" height="45%" width="45%" alt="Disk Sanitization Steps"> <img src="https://i.imgur.com/DJmEXEB.png" height="45%" width="45%" alt="Disk Sanitization Steps"> <img src="https://i.imgur.com/DJmEXEB.png" height="45%" width="45%" alt="Disk Sanitization Steps"> <img src="https://i.imgur.com/DJmEXEB.png" height="45%" width="45%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/robertgetino/post-install-config/blob/7f1cef2e775d50b07f064e6e5b3e686758b36e70/osTicket%20Agents.png" height="45%" width="45%" alt="Disk Sanitization Steps"> <img src="https://github.com/robertgetino/post-install-config/blob/e69ca36707ab1bb0263488a2f99231075ba70e0c/osTicket%20User.png" height="45%" width="45%" alt="Disk Sanitization Steps"> <img src="https://i.imgur.com/DJmEXEB.png" height="45%" width="45%" alt="Disk Sanitization Steps"> <img src="https://i.imgur.com/DJmEXEB.png" height="45%" width="45%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In the next steps, I am still remaining on the "Admin" Panel in order to add workers (help desk/service desk agents) in the Agents tab. I navigate to there, add the names Jane Smith and John Smith, both who have different department roles and permissions. After that, I have to add customers in this project, therefore, I go to the "Agents" Panel and click on Users, then add a name, which in this case, is Karen.
