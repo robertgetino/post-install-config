@@ -31,10 +31,10 @@ Next, I go back to the Admin Panel and to the "Departments" tab. I fill out all 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="45%" width="45%" alt="Disk Sanitization Steps"> <img src="https://i.imgur.com/DJmEXEB.png" height="45%" width="45%" alt="Disk Sanitization Steps"> <img src="https://i.imgur.com/DJmEXEB.png" height="45%" width="45%" alt="Disk Sanitization Steps"> <img src="https://i.imgur.com/DJmEXEB.png" height="45%" width="45%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/robertgetino/post-install-config/blob/7f1cef2e775d50b07f064e6e5b3e686758b36e70/osTicket%20Agents.png" height="45%" width="45%" alt="Disk Sanitization Steps"> <img src="https://i.imgur.com/DJmEXEB.png" height="45%" width="45%" alt="Disk Sanitization Steps"> <img src="https://i.imgur.com/DJmEXEB.png" height="45%" width="45%" alt="Disk Sanitization Steps"> <img src="https://i.imgur.com/DJmEXEB.png" height="45%" width="45%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In the next steps, I am still remaining on the "Admin" Panel in order to add workers (help desk/service desk agents) in the Agents tab. I navigate to there, add the names Jane Smith and John Smith, both who have different department roles and permissions. After that, I have to add customers in this project, therefore, I go to the "Agents" Panel and click on Users, then add two a name, which in this case, is Karen.
+In the next steps, I am still remaining on the "Admin" Panel in order to add workers (help desk/service desk agents) in the Agents tab. I navigate to there, add the names Jane Smith and John Smith, both who have different department roles and permissions. After that, I have to add customers in this project, therefore, I go to the "Agents" Panel and click on Users, then add a name, which in this case, is Karen.
   Thirdly, I go back to the "Admin" Panel and go to Manage then SLA, in order to write SLAs (Service Level Agreement). I add one SLA named Sev-A (for urgent tickets) which has a grace period of 1 hour and a schedule of 24/7. The next one is Sev-B (for medium urgent tickets) and its grace period is 4 hours and 24/7 schedule. The last SLA is Sev-C (for low urgent tickets) which has a grace period of 8 hours and is set to only the business hours of the help desk department.
   Lastly, I'll create Help Topics by remaining on the Admin Panel, then Manage and Help Topics. I'll then add Business Critical Outage, Personal Computer Issues, Equipment Request, Password Reset and Other.
 </p>
